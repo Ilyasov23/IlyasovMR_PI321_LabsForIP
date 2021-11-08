@@ -1,10 +1,5 @@
 
-<ul>
-  <li>http://ilyasovmax/github/IlyasovMR_PI321_LabsForIP/php/lab-1-1.php</li>
-  <li>http://ilyasovmax/github/IlyasovMR_PI321_LabsForIP/php/lab-1-2.php</li>
-  <li>http://ilyasovmax/github/IlyasovMR_PI321_LabsForIP/php/lab-1-3.php</li>
-  <li>http://ilyasovmax/github/IlyasovMR_PI321_LabsForIP/php/lab-1-4.php</li>
-  <li>http://ilyasovmax/github/IlyasovMR_PI321_LabsForIP/php/lab-1-5.php</li>
+
 <?php
 
  $var1= '3';
