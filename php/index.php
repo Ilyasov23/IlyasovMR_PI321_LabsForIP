@@ -68,3 +68,6 @@
                                       <div id="bubble">
                                           <p><a href="http://f0597837.xsph.ru/lab2-5.php"> Самомтоятельная работа 2 </a></p>
                                         </div>
+                                        <div id="bubble">
+                                            <p><a href="http://f0597837.xsph.ru/lab2-6.php"> Самомтоятельная работа 3 </a></p>
+                                          </div>
