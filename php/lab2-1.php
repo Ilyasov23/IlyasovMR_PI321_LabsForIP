@@ -45,5 +45,5 @@ print_r($rez1);
        <p><a href="http://f0597837.xsph.ru/lab2-3.php"> 	&raquo; Задание 2 </a></p>
      </div>
      <div id="bubble">
-         <p><a href="http://f0597837.xsph.ru/lab2-1.php"> &laquo; Лабораторная работа №1 </a></p>
+         <p><a href="http://f0597837.xsph.ru/lab-2-11.php"> &laquo; Лабораторная работа №1 </a></p>
        </div>
