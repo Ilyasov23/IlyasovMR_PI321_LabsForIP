@@ -74,3 +74,6 @@
                                 <div id="bubble">
                                     <p><a href="http://f0597837.xsph.ru/lab2-2.php"> 16 </a></p>
                                   </div>
+                                  <div id="bubble">
+                                      <p><a href="http://f0597837.xsph.ru/lab2-3.php"> 16 </a></p>
+                                    </div>
