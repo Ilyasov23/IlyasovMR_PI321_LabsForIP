@@ -12,11 +12,11 @@
       $array[$i]=rand(10,99);
       echo $array[$i].'&nbsp;&nbsp;';
   }
-  echo '<br><br>'."Отсортированный массив: ";
+  echo '<br><br>'."Массив в отсартированном виде: ";
   sort($array);
   print_r($array);
 
-  echo '<br><br>'."Массив в обратном порядке: ";
+  echo '<br><br>'."Элементы массива в обратном порядке: ";
   $rez = array_reverse($array);
   print_r($rez);
 
@@ -24,7 +24,7 @@
   array_pop($rez);
   print_r($rez);
 
-  echo '<br><br>'."Сумма массива: ";
+  echo '<br><br>'."Сумма элементов массива: ";
   $sum = array_sum($rez);
   print_r($sum);
 
