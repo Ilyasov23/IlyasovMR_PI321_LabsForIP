@@ -18,7 +18,7 @@ else {
 print (((($c . '/' . $d) . '3' . '*' . ($a . "/2")) . '/' . ($c . '-' . '(' . ($a) . ')' . '+1')) . '=' . $result);
    ?>
    <div id="bubble">
-   <p><a href="http://f0597837.xsph.ru/lab-2-1.php"> 	&raquo; Задание 3 </a></p>
+   <p><a href="http://f0597837.xsph.ru/lab-2-1.php"> 	&raquo; Задание 4 </a></p>
    </div>
    <div id="bubble">
      <p><a href="http://f0597837.xsph.ru/lab-1-3.php"> &laquo; Задание 2 </a></p>
