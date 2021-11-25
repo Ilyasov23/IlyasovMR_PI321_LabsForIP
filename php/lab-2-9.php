@@ -1,7 +1,8 @@
 <div id="bubble">
     <p><a href="http://f0597837.xsph.ru"> Домой </a></p>
   </div>
-
+  <h1 align="center"> Лабораторная работа №1 </h1>
+  <h2 align="center"> Задание 12 </h2>
 <HTML>
 <TITLE> Таблица умножения </TITLE>
 <BODY>
@@ -21,3 +22,9 @@ for ($i=1; $i<=10; $i++) { // запускаем первый цикл
 </TABLE>
 </BODY>
 </HTML>
+<div id="bubble">
+    <p><a href="http://f0597837.xsph.ru/lab-2-10.php"> 	&raquo; Задание 13 </a></p>
+  </div>
+  <div id="bubble">
+      <p><a href="http://f0597837.xsph.ru/lab-2-8.php"> &laquo; Задание 11 </a></p>
+    </div>

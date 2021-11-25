@@ -1,7 +1,8 @@
 <div id="bubble">
     <p><a href="http://f0597837.xsph.ru"> Домой </a></p>
   </div>
-
+  <h1 align="center"> Лабораторная работа №1 </h1>
+  <h2 align="center"> Самостоятельная работа №2 </h2>
 <?php
 const TRIPLEX = 1/3;
 
@@ -46,3 +47,9 @@ if (!$found) echo "Не найдено.\n";
 else echo "Найдено $found чисел.\n";
 echo "\n</pre>\n";
 ?>
+<div id="bubble">
+    <p><a href="http://f0597837.xsph.ru/lab2-1.php"> 	&raquo; Лабораторная работа №2 </a></p>
+  </div>
+  <div id="bubble">
+      <p><a href="http://f0597837.xsph.ru/lab-2-10.php"> &laquo; Задание 13 </a></p>
+    </div>

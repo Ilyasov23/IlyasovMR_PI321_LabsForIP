@@ -1,7 +1,8 @@
 <div id="bubble">
     <p><a href="http://f0597837.xsph.ru"> Домой </a></p>
   </div>
-
+  <h1 align="center"> Лабораторная работа №1 </h1>
+  <h2 align="center"> Задание 7 </h2>
 <?php
 $dn=rand(1,7);
 print ($dn ." - номер дня недели <br>");
@@ -15,3 +16,9 @@ case 6: print ("это суббота"); break;
 case 7: print ("это воскресенье");
 }
 ?>
+<div id="bubble">
+<p><a href="http://f0597837.xsph.ru/lab-2-5.php"> 	&raquo; Задание 8 </a></p>
+</div>
+<div id="bubble">
+  <p><a href="http://f0597837.xsph.ru/lab-2-3.php"> &laquo; Задание 6 </a></p>
+</div>

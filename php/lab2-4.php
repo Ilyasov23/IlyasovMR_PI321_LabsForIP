@@ -1,8 +1,11 @@
 <div id="bubble">
     <p><a href="http://f0597837.xsph.ru"> Домой </a></p>
   </div>
+  <h1 align="center"> Лабораторная работа №2 </h1>
+  <h1 align="center"> Самотоятельная работа №1. </h1>
+  <h2 align="center"> Вариант 14 </h2>
 <?php
-echo "САМОСТОЯТЕЛЬНАЯ РАБОТА Вариант 14 <br><br>";
+
 $massive = array();
    $c1=rand(0,9);
    $c2=rand(0,9);
@@ -43,3 +46,9 @@ echo "<th>","$massive[$i]","</th>","   ";
 }
 echo "</table>";
 ?>
+<div id="bubble">
+    <p><a href="http://f0597837.xsph.ru/lab2-4.php"> 	&raquo; Самотоятельная работа №2 </a></p>
+  </div>
+  <div id="bubble">
+      <p><a href="http://f0597837.xsph.ru/lab2-2.php"> &laquo; Задание 3 </a></p>
+    </div>

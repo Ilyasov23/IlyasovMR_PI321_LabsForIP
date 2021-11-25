@@ -1,82 +1,70 @@
-<ul>
-  Вставь нужную ссылку в поисковик для перехода по старницам сайта
-  <li>http://f0597837.xsph.ru/lab-1-1.php</li>
-  <li>http://f0597837.xsph.ru/lab-1-2.php</li>
-  <li>http://f0597837.xsph.ru/lab-1-3.php</li>
-  <li>http://f0597837.xsph.ru/lab-1-4.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-1.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-2.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-3.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-4.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-5.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-6.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-7.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-8.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-9.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-10.php</li>
-  <li>http://f0597837.xsph.ru/lab-2-11.php</li>
+<h1 align="center"> Домашняя страница </h1>
 
-
-<p> Дата и время:
-<p>
+  <h1 align="center">
 <?php
  $d=date("d.m.Y H:i");
  echo($d);
 ?>
+</h1>
+<h1> Лабораторная работа №1 </h1>
 <div id="bubble">
-    <p><a href="http://f0597837.xsph.ru/lab-1-1.php"> 1 </a></p>
+    <p><a href="http://f0597837.xsph.ru/lab-1-1.php"> Задание 1 </a></p>
   </div>
   <div id="bubble">
-      <p><a href="http://f0597837.xsph.ru/lab-1-2.php"> 2 </a></p>
+      <p><a href="http://f0597837.xsph.ru/lab-1-2.php"> Задание 2 </a></p>
     </div>
     <div id="bubble">
-        <p><a href="http://f0597837.xsph.ru/lab-1-3.php"> 3 </a></p>
+        <p><a href="http://f0597837.xsph.ru/lab-1-3.php"> Задание 3 </a></p>
       </div>
       <div id="bubble">
-          <p><a href="http://f0597837.xsph.ru/lab-1-4.php"> 4 </a></p>
+          <p><a href="http://f0597837.xsph.ru/lab-1-4.php"> Самомтоятельная работа 1 </a></p>
         </div>
         <div id="bubble">
-            <p><a href="http://f0597837.xsph.ru/lab-2-1.php"> 5 </a></p>
+            <p><a href="http://f0597837.xsph.ru/lab-2-1.php"> Задание 5 </a></p>
           </div>
           <div id="bubble">
-              <p><a href="http://f0597837.xsph.ru/lab-2-2.php"> 6</a></p>
+              <p><a href="http://f0597837.xsph.ru/lab-2-2.php"> Задание 6</a></p>
             </div>
             <div id="bubble">
-                <p><a href="http://f0597837.xsph.ru/lab-2-3.php"> 7 </a></p>
+                <p><a href="http://f0597837.xsph.ru/lab-2-3.php"> Задание 7 </a></p>
               </div>
               <div id="bubble">
-                  <p><a href="http://f0597837.xsph.ru/lab-2-4.php"> 8 </a></p>
+                  <p><a href="http://f0597837.xsph.ru/lab-2-4.php"> Задание 8 </a></p>
                 </div>
                 <div id="bubble">
-                    <p><a href="http://f0597837.xsph.ru/lab-2-5.php"> 9 </a></p>
+                    <p><a href="http://f0597837.xsph.ru/lab-2-5.php"> Задание 9 </a></p>
                   </div>
                   <div id="bubble">
-                      <p><a href="http://f0597837.xsph.ru/lab-2-6.php"> 10 </a></p>
+                      <p><a href="http://f0597837.xsph.ru/lab-2-6.php"> Задание 10 </a></p>
                     </div>
                     <div id="bubble">
-                        <p><a href="http://f0597837.xsph.ru/lab-2-7.php"> 11 </a></p>
+                        <p><a href="http://f0597837.xsph.ru/lab-2-7.php"> Задание 11 </a></p>
                       </div>
                       <div id="bubble">
-                          <p><a href="http://f0597837.xsph.ru/lab-2-8.php"> 12 </a></p>
+                          <p><a href="http://f0597837.xsph.ru/lab-2-8.php"> Задание 12 </a></p>
                         </div>
                         <div id="bubble">
-                            <p><a href="http://f0597837.xsph.ru/lab-2-9.php"> 13 </a></p>
+                            <p><a href="http://f0597837.xsph.ru/lab-2-9.php"> Задание 13 </a></p>
                           </div>
                           <div id="bubble">
-                              <p><a href="http://f0597837.xsph.ru/lab-2-10.php"> 14 </a></p>
+                              <p><a href="http://f0597837.xsph.ru/lab-2-10.php"> Задание 14 </a></p>
                             </div>
                             <div id="bubble">
-                                <p><a href="http://f0597837.xsph.ru/lab-2-11.php"> 15 </a></p>
+                                <p><a href="http://f0597837.xsph.ru/lab-2-11.php"> Самомтоятельная работа 2 </a></p>
                               </div>
                               <div id="bubble">
-                                  <p><a href="http://f0597837.xsph.ru/lab2-1.php"> 16 </a></p>
+                                <h1> Лабораторная работа №2 </h1>
+                                  <p><a href="http://f0597837.xsph.ru/lab2-1.php">  Задание 1 </a></p>
                                 </div>
                                 <div id="bubble">
-                                    <p><a href="http://f0597837.xsph.ru/lab2-2.php"> 16 </a></p>
+                                    <p><a href="http://f0597837.xsph.ru/lab2-2.php"> Задание 2 </a></p>
                                   </div>
                                   <div id="bubble">
-                                      <p><a href="http://f0597837.xsph.ru/lab2-3.php"> 16 </a></p>
+                                      <p><a href="http://f0597837.xsph.ru/lab2-3.php"> Задание 3 </a></p>
                                     </div>
                                     <div id="bubble">
-                                        <p><a href="http://f0597837.xsph.ru/lab2-4.php"> 16 </a></p>
+                                        <p><a href="http://f0597837.xsph.ru/lab2-4.php"> Самомтоятельная работа 1 </a></p>
                                       </div>
+                                      <div id="bubble">
+                                          <p><a href="http://f0597837.xsph.ru/lab2-5.php"> Самомтоятельная работа 2 </a></p>
+                                        </div>

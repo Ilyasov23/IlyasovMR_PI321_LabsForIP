@@ -1,6 +1,8 @@
 <div id="bubble">
     <p><a href="http://f0597837.xsph.ru"> Домой </a></p>
   </div>
+  <h1 align="center"> Лабораторная работа №2 </h1>
+  <h2 align="center"> Задание 2 </h2>
   <?php
 
   $per = rand (3,20);
@@ -46,3 +48,9 @@
   print_r($unik);
 
   ?>
+  <div id="bubble">
+      <p><a href="http://f0597837.xsph.ru/lab2-3.php"> 	&raquo; Задание 3 </a></p>
+    </div>
+    <div id="bubble">
+        <p><a href="http://f0597837.xsph.ru/lab2-1.php"> &laquo; Задание 1 </a></p>
+      </div>
