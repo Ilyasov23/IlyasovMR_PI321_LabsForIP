@@ -3,7 +3,7 @@
   </div>
   <h1 align="center"> Лабораторная работа №2 </h1>
   <h1 align="center"> Самотоятельная работа №2. </h1>
-  <h2 align="center"> Задание 4 </h2>
+  <h2 align="center"> Вариант 14 </h2>
   <?php
 
   function f($u, $t) {
@@ -35,8 +35,8 @@
  echo "Результат = ","$result";
   ?>
   <div id="bubble">
-      <p><a href="http://f0597837.xsph.ru/lab2-4.php"> 	&raquo; Задание 3 </a></p>
+      <p><a href="http://f0597837.xsph.ru/lab2-6.php"> 	&raquo; Самостоятельная работа №3 </a></p>
     </div>
     <div id="bubble">
-        <p><a href="http://f0597837.xsph.ru/lab2-2.php"> &laquo; Самостоятельная работа №2 </a></p>
+        <p><a href="http://f0597837.xsph.ru/lab2-4.php"> &laquo; Самостоятельная работа №1 </a></p>
       </div>
