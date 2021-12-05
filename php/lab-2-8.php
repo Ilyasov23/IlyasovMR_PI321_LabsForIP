@@ -1,6 +1,10 @@
 <div id="bubble">
     <p><a href="http://f0597837.xsph.ru"> Домой </a></p>
   </div>
+  <head>
+  <title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#B0E0E6">
+</head>
   <h1 align="center"> Лабораторная работа №1 </h1>
   <h2 align="center"> Задание 11 </h2>
 <?php

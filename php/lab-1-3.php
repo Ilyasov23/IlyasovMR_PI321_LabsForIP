@@ -6,6 +6,10 @@
   <h2 align="center"> Задание 3 </h2>
 <p> Мат. операция:
 <p>
+  <head>
+  <title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#B0E0E6">
+</head>
 <?php
 $NUM_E=(M_E);
 

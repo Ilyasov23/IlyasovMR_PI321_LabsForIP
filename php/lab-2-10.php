@@ -4,7 +4,10 @@
   <h1 align="center"> Лабораторная работа №1 </h1>
   <h2 align="center"> Задание 13 </h2>
 <HTML>
-  <TITLE> Таблица умножения </TITLE>
+  <head>
+  <title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#B0E0E6">
+</head>
   <BODY>
     <TABLE border=1>
       <?php

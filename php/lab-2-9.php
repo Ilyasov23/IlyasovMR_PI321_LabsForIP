@@ -1,9 +1,14 @@
 <div id="bubble">
     <p><a href="http://f0597837.xsph.ru"> Домой </a></p>
   </div>
+
   <h1 align="center"> Лабораторная работа №1 </h1>
   <h2 align="center"> Задание 12 </h2>
 <HTML>
+  <head>
+  <title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#B0E0E6">
+</head>
 <TITLE> Таблица умножения </TITLE>
 <BODY>
 <TABLE border=1>
