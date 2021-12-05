@@ -7,7 +7,10 @@
   <title>Ильясов М.Р. ПИ-321</title>
  <body bgcolor="#B0E0E6">
 </head>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5aa639f54b625a1bc3edc16446e6c871c8e57337
 <?php
 $а = "А";
 switch ($а) {
