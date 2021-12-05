@@ -5,6 +5,10 @@
   <h2 align="center"> Задание 2 </h2>
 <p> Арифметические операции:
 <p>
+  <head>
+  <title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#B0E0E6">
+</head>
 <?php
  $x=rand(1,10);
  $y=rand(1,10);

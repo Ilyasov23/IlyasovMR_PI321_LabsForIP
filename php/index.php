@@ -4,6 +4,10 @@
 <?php
  $d=date("d.m.Y H:i");
  echo($d);
+ <head>
+ <title>Ильясов М.Р. ПИ-321</title>
+<body bgcolor="#B0E0E6">
+</head>
 ?>
 </h1>
 <h1> Лабораторная работа №1 </h1>

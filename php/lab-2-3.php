@@ -3,6 +3,10 @@
   </div>
   <h1 align="center"> Лабораторная работа №1 </h1>
   <h2 align="center"> Задание 6 </h2>
+  <head>
+  <title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#B0E0E6">
+</head>
 <?php
 $а = "А";
 switch ($а) {

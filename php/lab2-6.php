@@ -5,7 +5,10 @@
   <h1 align="center"> Самотоятельная работа №3. </h1>
   <h2 align="center"> Вариант 14 </h2>
 
-
+  <head>
+	<title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#A9A9A9">
+</head>
 <?php
 
 $x=10;

@@ -3,6 +3,10 @@
   </div>
   <h1 align="center"> Лабораторная работа №2 </h1>
   <h2 align="center"> Задание 3 </h2>
+  <head>
+  <title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#A9A9A9">
+</head>
   <?php
 
 

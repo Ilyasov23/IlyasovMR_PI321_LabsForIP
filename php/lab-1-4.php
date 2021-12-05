@@ -5,6 +5,10 @@
   <h2 align="center"> Самостоятельная работа №1 </h2>
 <p> Мат. операция;
 <p>
+  <head>
+  <title>Ильясов М.Р. ПИ-321</title>
+ <body bgcolor="#B0E0E6">
+</head>
   <?php
 $a=rand(-20,20);
 $c=rand(-20,20);
