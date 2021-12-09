@@ -92,5 +92,5 @@
   <p><a href="http://f0597837.xsph.ru/s3-5.php"> Самомтоятельная работа 5</a></p>
   </div>
   <div id="bubble">
-  <p><a href="http://f0597837.xsph.ru/s3-6.php"> Самомтоятельная работа 6</a></p>
+  <p><a href="http://f0597837.xsph.ru/s3-6.html"> Самомтоятельная работа 6</a></p>
   </div>

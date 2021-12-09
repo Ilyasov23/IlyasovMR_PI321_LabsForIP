@@ -120,7 +120,7 @@
 </body>
 </html>
 <div id="bubble">
-		<p><a href="http://f0597837.xsph.ru/s3-6.php"> 	&raquo; Самостоятельная работа №6 </a></p>
+		<p><a href="http://f0597837.xsph.ru/s3-6.html"> 	&raquo; Самостоятельная работа №6 </a></p>
 	</div>
 	<div id="bubble">
 			<p><a href="http://f0597837.xsph.ru/s3-4.php"> &laquo; Самостоятельная работа №4 </a></p>
