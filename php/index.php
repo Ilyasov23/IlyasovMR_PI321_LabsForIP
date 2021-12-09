@@ -75,3 +75,22 @@
                                         <div id="bubble">
                                             <p><a href="http://f0597837.xsph.ru/lab2-6.php"> Самомтоятельная работа 3 </a></p>
                                           </div>
+                                            <h1> Лабораторная работа №3 </h1>
+  <div id="bubble">
+  <p><a href="http://f0597837.xsph.ru/s3-1.php"> Самомтоятельная работа 1</a></p>
+  </div>
+  <div id="bubble">
+  <p><a href="http://f0597837.xsph.ru/s3-2.php"> Самомтоятельная работа 2</a></p>
+  </div>
+  <div id="bubble">
+  <p><a href="http://f0597837.xsph.ru/s3-3.php"> Самомтоятельная работа 3</a></p>
+  </div>
+  <div id="bubble">
+  <p><a href="http://f0597837.xsph.ru/s3-4.php"> Самомтоятельная работа 4</a></p>
+  </div>
+  <div id="bubble">
+  <p><a href="http://f0597837.xsph.ru/s3-5.php"> Самомтоятельная работа 5</a></p>
+  </div>
+  <div id="bubble">
+  <p><a href="http://f0597837.xsph.ru/s3-6.php"> Самомтоятельная работа 6</a></p>
+  </div>

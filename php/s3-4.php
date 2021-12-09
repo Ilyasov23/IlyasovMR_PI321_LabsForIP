@@ -17,10 +17,10 @@
 
 <?php
 if (isset($_POST["enter"])) {
-if($_POST["login"]=="Pipindr") {echo "Здравствуйте, Пипиндр Пипиндрович!";}
-else if($_POST["login"]=="Popo") {echo "Здравствуйте, Попо Попович!";}
-else if($_POST["login"]=="Putin") {echo "Здравствуйте, Владимир Путин!";}
-else if($_POST["login"]=="Uzbek") {echo "Здравствуйте, Узбек Узбекович!";}
+if($_POST["login"]=="Loboradoria") {echo "Здравствуйте, Лобная ДОЛЯ!!!!";}
+else if($_POST["login"]=="Davai") {echo "Здравствуйте, Давай Давай!";}
+else if($_POST["login"]=="Lukash") {echo "Здравствуйте, таракашка Таракашкович";}
+else if($_POST["login"]=="Tadjik") {echo "Здравствуйте, Мужик по фамилии Таджик!";}
 else {echo "Такой пользователь не зарегестрирован на сайте.";}
 }
 ?>
