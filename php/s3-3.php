@@ -75,3 +75,9 @@ for($i=1;$i<=$_POST["N"];$i++){
 
 </body>
 </html>
+<div id="bubble">
+		<p><a href="http://f0597837.xsph.ru/s3-4.php"> 	&raquo; Самостоятельная работа №4 </a></p>
+	</div>
+	<div id="bubble">
+			<p><a href="http://f0597837.xsph.ru/s3-2.php"> &laquo; Самостоятельная работа №2 </a></p>
+		</div>

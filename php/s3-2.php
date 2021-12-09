@@ -48,3 +48,9 @@ echo "Результат: ".$res;
 
 </body>
 </html>
+<div id="bubble">
+		<p><a href="http://f0597837.xsph.ru/s3-3.php"> 	&raquo; Самостоятельная работа №3 </a></p>
+	</div>
+	<div id="bubble">
+			<p><a href="http://f0597837.xsph.ru/s3-1.php"> &laquo; Самостоятельная работа №1 </a></p>
+		</div>
